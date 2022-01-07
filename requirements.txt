@@ -1,0 +1,5 @@
+pytesseract
+pyautogui
+pyfiglet
+base64
+argparse
